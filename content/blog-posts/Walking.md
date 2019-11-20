@@ -3,7 +3,7 @@ title: An Essay on Walkingz
 date: 2019-07-11T20:11:17.000+00:00
 type: blog
 author: Allen Ginsberg
-hero: "/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+hero: "/images/davisco-5E5N49RWtbA-unsplash.jpg"
 
 ---
 Change this!!!
