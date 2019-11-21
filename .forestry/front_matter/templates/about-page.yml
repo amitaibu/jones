@@ -37,5 +37,20 @@ fields:
     description: Enter contact email here
   label: contact info
   description: Enter contact info here
+- name: colors
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Blue
+    - Yellow
+    - Black
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Colors
 pages:
 - content/about/info.md
