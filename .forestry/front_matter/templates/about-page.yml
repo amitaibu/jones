@@ -49,9 +49,9 @@ fields:
     - Red
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
   label: Colors
 pages:
 - content/about/info.md
